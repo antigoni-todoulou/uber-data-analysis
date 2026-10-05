@@ -84,7 +84,16 @@ and analysed hourly airport demand patterns.
 - Created interactive Folium maps
 - Built animated hourly heatmaps showing pickup density across New York City
 - Visualised how pickup hotspots evolve throughout the day
+
+## Key Findings
  
+- Uber demand increased significantly during the first half of 2015.
+- Weekday pickup patterns differ from weekend behaviour.
+- Demand peaks during commuting and evening hours.
+- A small number of dispatch bases account for the majority of rides.
+- JFK and LaGuardia experience stronger pickup demand than Newark.
+- Pickup hotspots shift throughout the day, visible in the animated heatmap.
+ 
 ## Technologies Used
  
 - Python
