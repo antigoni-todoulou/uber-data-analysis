@@ -108,7 +108,15 @@ and analysed hourly airport demand patterns.
 - Interactive Dashboard Visualisation
 - Data Export & Storage
 - SQL Database Integration
+
+## Data Access
  
+The original dataset can be downloaded from:
+ 
+https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city
+ 
+Note: Raw data files are not stored in this repository because of their size.
+
 ## Files
  
 - `Uber_Data_Analysis.ipynb` — Main analysis notebook
